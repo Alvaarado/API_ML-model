@@ -1,4 +1,4 @@
-# API_model_tryout
+# API para un modelo de ML
 
 Esta API proporciona una predicción de ventas basada en los gastos de marketing en televisión, radio y periódicos de una empresa. Además, permite agregar datos a la base de datos y reentrenar el modelo para que, de esa forma, tenga en cuenta los nuevos datos a la hora de proporcionar futuras predicciones.
 
